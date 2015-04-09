@@ -1,5 +1,5 @@
 <h1>Awesome Marketing Chat Sliders</h1>
-<p>Chat sliders for marketing of your whatsapp group or facebook page (can be scaled to any chat system).</p>
+<p>Chat sliders for marketing of your whatsapp group or facebook page (can be scaled to any chat system)</p>
 <p>
 Chat sliders for showcasing the Whatsapp Group Chat or your Facebook page posts to attract new users to join you. It can be scaled to any chat system that you may want to design for your next project.
 </p>
@@ -11,9 +11,9 @@ Chat sliders for showcasing the Whatsapp Group Chat or your Facebook page posts 
 </p>
 <h4>How to use</h4>
 <h5>The files</h5>
-To use each folder in <code>src</code> has three files:<br>
--chat.js (core file for the chat sliders)<br>
--data.js (file from where all the variables are fetched)<br>
+To use each folder in <code>src</code> has three files:
+-chat.js (core file for the chat sliders)
+-data.js (file from where all the variables are fetched)
 -facebook.css/whatsapp.css (the stylesheet for respective pages)
 <br>
 To use just import all three files:
@@ -26,7 +26,7 @@ To use just import all three files:
 The best part is that it requires least html setup.
 Initialize on any html div element:
 <pre>
-&lt;div class="chat-box">&lt;/div>
+&lt;div class="chat-box"></div>
 </pre>
 Then initialize just like any other jQuery plugin:
 <pre>
