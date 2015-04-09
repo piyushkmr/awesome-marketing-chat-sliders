@@ -3,8 +3,12 @@
 <p>
 Chat sliders for showcasing the Whatsapp Group Chat or your Facebook page posts to attract new users to join you. It can be scaled to any chat system that you may want to design for your next project.
 </p>
+<p>I created it for website <a href="http://greio.com">GREIO.com</a>, but decided to distribute them openly for bugs and improvements.</p>
 <p>For a demo just got to Demo folder and got to Faceboo-page or Whatsapp-page folder for respective demo.</p>
-
+<p>For live demo visit:<br>
+	<a href="http://greio.com/facebook">http://greio.com/facebook</a><br>
+	<a href="http://greio.com/whatsapp">http://greio.com/whatsapp</a><br>
+</p>
 <h4>How to use</h4>
 <h5>The files</h5>
 To use each folder in <code>src</code> has three files:
