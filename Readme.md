@@ -5,7 +5,7 @@ Chat sliders for showcasing the Whatsapp Group Chat or your Facebook page posts 
 </p>
 <p>I created it for website <a href="http://greio.com">GREIO.com</a>, but decided to distribute them openly for bugs and improvements.</p>
 <p>For a demo just got to Demo folder and got to Faceboo-page or Whatsapp-page folder for respective demo.</p>
-<p>For live demo visit:<br>
+<h4>For live demo visit:</h4>
 	<a href="http://greio.com/facebook">http://greio.com/facebook</a><br>
 	<a href="http://greio.com/whatsapp">http://greio.com/whatsapp</a><br>
 </p>
